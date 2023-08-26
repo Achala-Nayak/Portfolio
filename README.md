@@ -9,11 +9,10 @@ In this project, I will be building a dynamic and interactive 3D scene using Thr
 
 ## Technologies Used
 
-- **React.js**: A popular JavaScript library for building user interfaces. I'll use React to create the overall structure of my application and manage the interactions with the Three.js scene.
+- **React.js**: A popular JavaScript library for building user interfaces.React is used to create the overall structure of my application and manage the interactions with the Three.js scene.
 
-- **Three.js**: A JavaScript library that makes it easy to create 3D graphics in the browser. I'll use Three.js to create and manipulate the 3D scene, add objects, textures, lighting, and more.
+- **Three.js**:A JavaScript library that makes it easy to create 3D graphics in the browser.Three.js is used to create and manipulate the 3D scene, add objects, textures, lighting, and more.
 
-- **Tailwind CSS**: A utility-first CSS framework that helps me quickly design and style my components. I'll use Tailwind CSS to style my React components and create a visually appealing user interface.
+- **Tailwind CSS**: A utility-first CSS framework that helps me quickly design and style my components. 
 
-- **Framer Motion**: A library for adding smooth animations and transitions to my React components. I'll use Framer Motion to create delightful animations that enhance the user experience.
-
+- **Framer Motion**: A library for adding smooth animations and transitions to my React components. 
