@@ -65,7 +65,7 @@ const Navbar = () => {
                   }`}
                   onClick={() => {
                     setToggle(!toggle);
-                    setActive(link.title);
+                    setActive(nav.title);
                   }}
                 >
                   <a href={`#${link.id}`}>{link.title}</a>
