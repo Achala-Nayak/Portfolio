@@ -73,17 +73,10 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+  
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -105,10 +98,6 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
       name: "docker",
       icon: docker,
     },
@@ -116,57 +105,46 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "BGS National Public School",
+      company_name: "CBSE 10th",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "June 2011 - March 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Served as a Schneider Electric Green Ambassador in 2013-2014.",
+        "Achieved victory in Music Mania as the winner in the Instrumental Keyboard category during 2015-2016.",
+        "Actively participated as a member of CMCA in 2016-2017.",
+        "Engaged in Volleyball during the academic year 2017-2018.",
+        "Attained a remarkable grade of 95.33% in my 10th Board Exams."
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Deeksha CFL PU College ",
+      company_name: "Karnataka State Board 12th",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "May 2019 - August 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Attained an outstanding score of 98% in the 12th board exams. ",
+        "Secured a perfect 100% in the PCMC subjects."
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "PES University",
+      company_name: "B.Tech-Computer Science Engineering",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "September 2021 -  2025",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "I am a member of several clubs, namely Shunya (The official math club of PES University), IEEE RAS, and GDSC. ",
+        "I've actively participated in a variety of events, including Aatmatrisha 2022 and Vicharaprapancha. ",
+        "Additionally, I've led the coordination and organization of events like Anveshana, Kalari, Comicurve, Arithemania, Swatantr, and Learning Path.",
+        "I've also engaged in hackathons such as Kodikon and Hallothon.",
+        "I hold a core position within Samarpana, an initiative by PES University since 2008. Samarpana supports families of Indian Armed Forces martyrs. Currently, our team is arranging Samarpana 2023, a charity run that pays tribute to these heroes. This event strives to increase awareness about their sacrifices, prompting people to assist martyrs' families and fostering patriotism among students and citizens."
+        
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+
   ];
   
   const testimonials = [
